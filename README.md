@@ -58,5 +58,5 @@ python bot_register.py
 
 ## ✍️ Autor
 
-- Nome: *[Seu nome aqui]*
+- Nome: Higor Inacio Pereira Sousa
 - Projeto criado para fins educacionais com foco em automação e uso do `pyautogui`.
